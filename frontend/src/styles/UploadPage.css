@@ -1,0 +1,52 @@
+.upload-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.upload-container .ant-upload-drag {
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.upload-container .ant-upload-drag:hover {
+  border-color: #667eea;
+  background-color: #f0f5ff;
+}
+
+.upload-container .ant-upload-drag-icon {
+  color: #667eea;
+}
+
+.upload-container .ant-upload-text {
+  color: #333;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.upload-container .ant-upload-hint {
+  color: #999;
+  font-size: 14px;
+}
+
+.upload-container .ant-card {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+
+.upload-container .ant-card-head-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.upload-container ul {
+  margin: 0;
+  padding-left: 24px;
+}
+
+.upload-container li {
+  margin: 8px 0;
+  color: #666;
+  font-size: 14px;
+}

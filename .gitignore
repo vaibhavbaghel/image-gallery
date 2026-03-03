@@ -1,0 +1,6 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+backend\image-gallery-489009-824ac8fd8db0.json

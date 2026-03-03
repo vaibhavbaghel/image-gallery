@@ -1,0 +1,28 @@
+{
+  "name": "image-gallery-frontend",
+  "version": "1.0.0",
+  "description": "React frontend for AI-powered image gallery",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "antd": "^5.10.0",
+    "@ant-design/icons": "^5.2.0",
+    "axios": "^1.5.0",
+    "react-router-dom": "^6.16.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.1.0",
+    "vitest": "^0.34.0",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/jest-dom": "^6.1.0",
+    "sass": "^1.68.0"
+  }
+}
